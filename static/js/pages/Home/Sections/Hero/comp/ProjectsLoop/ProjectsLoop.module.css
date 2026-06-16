@@ -1,0 +1,106 @@
+.wrapper {
+    position: relative;
+    width: 100%;
+    margin-top: 3rem;
+    --logoloop-fadeColorAuto: #010915;
+    overflow: hidden;
+}
+
+.wrapper::after {
+    content: "";
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    height: 100%;
+    pointer-events: none;
+    z-index: 2;
+    background: linear-gradient(to top, rgba(1,9,21,1) 0%, rgba(1,9,21,0.75) 25%, rgba(1,9,21,0.5) 50%, rgba(1,9,21,0.25) 75%, rgba(1,9,21,0) 100%);
+}
+
+.slider {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+}
+
+.slider::before,
+.slider::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    width: clamp(24px, 15%, 20%);
+    pointer-events: none;
+    z-index: 3;
+}
+
+.slider::before {
+    left: 0;
+    background: linear-gradient(to right, var(--logoloop-fadeColorAuto) 0%, rgba(0,0,0,0) 100%);
+}
+
+.slider::after {
+    right: 0;
+    background: linear-gradient(to left, var(--logoloop-fadeColorAuto) 0%, rgba(0,0,0,0) 100%);
+}
+
+.track {
+    display: flex;
+    align-items: center;
+    width: max-content;
+    animation: marquee 35s linear infinite;
+    will-change: transform;
+}
+
+.track:hover {
+    animation-play-state: paused;
+}
+
+@keyframes marquee {
+    0% { transform: translateX(0); }
+    100% { transform: translateX(calc(-100% / 3)); }
+}
+
+.slideLink {
+    display: block;
+    padding: 0.5rem;
+    text-decoration: none;
+    flex-shrink: 0;
+    width: clamp(140px, 18vw, 220px);
+}
+
+.imageWrapper {
+    position: relative;
+    width: 100%;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.image {
+    width: 100%;
+    height: auto;
+    display: block;
+    border-radius: inherit;
+    transform: scale(1);
+    transition: transform 200ms ease-out, filter 200ms ease-out, opacity 200ms ease-out;
+    opacity: 0.8;
+}
+
+.slideLink:hover .image {
+    opacity: 1;
+    transform: scale(1.05);
+    filter: brightness(1.03);
+}
+
+@media (max-width: 799px) {
+    .wrapper { --logoloop-fadeColorAuto: #0c0f25; }
+    .slideLink { width: clamp(110px, 22vw, 170px); }
+}
+
+@media (max-width: 480px) {
+    .wrapper { --logoloop-fadeColorAuto: #11132c; }
+    .imageWrapper { border-radius: 7px; }
+    .slideLink { padding: 4px; width: clamp(90px, 28vw, 140px); }
+    .slideLink:hover .image { transform: scale(1); }
+}

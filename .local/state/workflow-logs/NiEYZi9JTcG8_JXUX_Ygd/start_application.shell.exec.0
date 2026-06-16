@@ -1,0 +1,65 @@
+[1G[0K⠙[1G[0K[41m[1m ERROR [22m[49m Cannot copy server address to clipboard: Couldn't find the `xsel` binary and fallback didn't work. On Debian/Ubuntu you can install xsel with: sudo apt install xsel.
+[32m[39m
+[32m   ┌───────────────────────────────────────────┐[39m
+   [32m│[39m                                           [32m│[39m
+   [32m│[39m   [32mServing![39m                                [32m│[39m
+   [32m│[39m                                           [32m│[39m
+   [32m│[39m   [1m- Local:[22m    http://localhost:5000       [32m│[39m
+   [32m│[39m   [1m- Network:[22m  http://172.31.93.194:5000   [32m│[39m
+   [32m│[39m                                           [32m│[39m
+[32m   └───────────────────────────────────────────┘[39m
+[32m[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 4:10:09 PM[22m [33m127.0.0.1[39m [36mGET /[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 4:10:09 PM[22m [33m127.0.0.1[39m [32mReturned 304 in 24 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 4:10:10 PM[22m [33m127.0.0.1[39m [36mGET /static/css/main.fe9b73c3.css[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 4:10:10 PM[22m [33m127.0.0.1[39m [32mReturned 304 in 3 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 4:10:10 PM[22m [33m127.0.0.1[39m [36mGET /static/js/main.46d5b518.js[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 4:10:10 PM[22m [33m127.0.0.1[39m [32mReturned 304 in 92 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 4:10:10 PM[22m [33m127.0.0.1[39m [36mGET /static/js/475.1a18f0d3.chunk.js[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 4:10:10 PM[22m [33m127.0.0.1[39m [36mGET /static/js/278.394b6ac5.chunk.js[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 4:10:10 PM[22m [33m127.0.0.1[39m [36mGET /static/js/326.4a2dba2b.chunk.js[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 4:10:10 PM[22m [33m127.0.0.1[39m [32mReturned 304 in 9 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 4:10:10 PM[22m [33m127.0.0.1[39m [32mReturned 304 in 3 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 4:10:10 PM[22m [33m127.0.0.1[39m [32mReturned 304 in 3 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 4:10:10 PM[22m [33m127.0.0.1[39m [36mGET /static/js/760.52565ca9.chunk.js[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 4:10:10 PM[22m [33m127.0.0.1[39m [32mReturned 304 in 2 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 4:10:10 PM[22m [33m127.0.0.1[39m [36mGET /logo.png[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 4:10:10 PM[22m [33m127.0.0.1[39m [36mGET /static/css/760.658bf701.chunk.css[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 4:10:10 PM[22m [33m127.0.0.1[39m [32mReturned 304 in 3 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 4:10:10 PM[22m [33m127.0.0.1[39m [32mReturned 304 in 3 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 4:10:10 PM[22m [33m127.0.0.1[39m [36mGET /_vercel/insights/script.js[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 4:10:10 PM[22m [33m127.0.0.1[39m [32mReturned 304 in 2 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 4:10:10 PM[22m [33m127.0.0.1[39m [36mGET /_vercel/speed-insights/script.js[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 4:10:10 PM[22m [33m127.0.0.1[39m [32mReturned 304 in 2 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 4:10:10 PM[22m [33m127.0.0.1[39m [36mGET /images/jake.webp[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 4:10:10 PM[22m [33m127.0.0.1[39m [32mReturned 304 in 2 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 4:10:10 PM[22m [33m127.0.0.1[39m [36mGET /images/parker.jpg[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 4:10:10 PM[22m [33m127.0.0.1[39m [32mReturned 304 in 4 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 4:10:10 PM[22m [33m127.0.0.1[39m [36mGET /images/ari.png[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 4:10:10 PM[22m [33m127.0.0.1[39m [36mGET /images/dimitris.webp[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 4:10:10 PM[22m [33m127.0.0.1[39m [32mReturned 304 in 2 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 4:10:10 PM[22m [33m127.0.0.1[39m [32mReturned 304 in 2 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 4:10:10 PM[22m [33m127.0.0.1[39m [36mGET /images/mcclain.webp[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 4:10:10 PM[22m [33m127.0.0.1[39m [32mReturned 304 in 0 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 4:10:10 PM[22m [33m127.0.0.1[39m [36mGET /images/project.png[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 4:10:10 PM[22m [33m127.0.0.1[39m [32mReturned 304 in 4 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 4:10:10 PM[22m [33m127.0.0.1[39m [36mPOST /_vercel/insights/view[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 4:10:10 PM[22m [33m127.0.0.1[39m [32mReturned 200 in 2 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 4:10:11 PM[22m [33m127.0.0.1[39m [36mGET /projects/2.webp[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 4:10:11 PM[22m [33m127.0.0.1[39m [36mGET /projects/3.webp[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 4:10:11 PM[22m [33m127.0.0.1[39m [36mGET /projects/4.webp[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 4:10:11 PM[22m [33m127.0.0.1[39m [32mReturned 304 in 3 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 4:10:11 PM[22m [33m127.0.0.1[39m [32mReturned 304 in 3 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 4:10:11 PM[22m [33m127.0.0.1[39m [32mReturned 304 in 2 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 4:10:11 PM[22m [33m127.0.0.1[39m [36mGET /projects/1.webp[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 4:10:11 PM[22m [33m127.0.0.1[39m [32mReturned 304 in 1 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 4:10:11 PM[22m [33m127.0.0.1[39m [36mGET /projects/5.webp[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 4:10:11 PM[22m [33m127.0.0.1[39m [32mReturned 304 in 1 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 4:10:21 PM[22m [33m127.0.0.1[39m [36mGET /projects/8.webp[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 4:10:21 PM[22m [33m127.0.0.1[39m [32mReturned 200 in 2 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 4:10:21 PM[22m [33m127.0.0.1[39m [36mGET /projects/7.webp[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 4:10:21 PM[22m [33m127.0.0.1[39m [32mReturned 304 in 2 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 4:10:21 PM[22m [33m127.0.0.1[39m [36mGET /projects/6.webp[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 4:10:21 PM[22m [33m127.0.0.1[39m [32mReturned 304 in 2 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 4:10:28 PM[22m [33m127.0.0.1[39m [36mPOST /_vercel/speed-insights/vitals[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 4:10:28 PM[22m [33m127.0.0.1[39m [32mReturned 200 in 1 ms[39m

@@ -1,0 +1,357 @@
+
+> keerthan-portfolio@1.0.0 dev
+> vite --host 0.0.0.0 --port 5000
+
+[1G[0K
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J
+  [32m[1mVITE[22m v5.4.21[39m  [2mready in [0m[1m236[22m[2m[0m ms[22m
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://localhost:[1m5000[22m/[39m
+  [32m➜[39m  [1mNetwork[22m: [36mhttp://172.24.0.2:[1m5000[22m/[39m
+[2m[32m  ➜[39m[22m[2m  press [22m[1mh + enter[22m[2m to show help[22m
+[2m2:59:43 PM[22m [31m[1m[vite][22m[39m Pre-transform error: Failed to parse source for import analysis because the content contains invalid JS syntax. If you use tsconfig.json, make sure to not set jsx to preserve.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m2:59:43 PM[22m [31m[1m[vite][22m[39m Pre-transform error: Failed to parse source for import analysis because the content contains invalid JS syntax. If you use tsconfig.json, make sure to not set jsx to preserve. [33m(x2)[39m
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m2:59:43 PM[22m [31m[1m[vite][22m[39m Pre-transform error: Failed to parse source for import analysis because the content contains invalid JS syntax. If you use tsconfig.json, make sure to not set jsx to preserve. [33m(x3)[39m
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m2:59:43 PM[22m [31m[1m[vite][22m[39m [31mInternal server error: Failed to parse source for import analysis because the content contains invalid JS syntax. If you use tsconfig.json, make sure to not set jsx to preserve.[39m
+  Plugin: [35mvite:import-analysis[39m
+  File: [36m/home/runner/workspace/static/js/components/Navbar/Navbar.jsx[39m:70:32
+[33m  87 |              
+  88 |                          <Logo />
+  89 |                      </motion.div>
+     |                                   ^
+  90 |                  </a>
+  91 |              </div>[39m
+      at TransformPluginContext._formatError (file:///home/runner/workspace/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:49258:41)
+      at TransformPluginContext.error (file:///home/runner/workspace/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:49253:16)
+      at TransformPluginContext.transform (file:///home/runner/workspace/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:64259:14)
+      at async PluginContainer.transform (file:///home/runner/workspace/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:49099:18)
+      at async loadAndTransform (file:///home/runner/workspace/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:51978:27)
+      at async viteTransformMiddleware (file:///home/runner/workspace/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:62106:24)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m2:59:43 PM[22m [31m[1m[vite][22m[39m [31mInternal server error: Failed to parse source for import analysis because the content contains invalid JS syntax. If you use tsconfig.json, make sure to not set jsx to preserve.[39m
+  Plugin: [35mvite:import-analysis[39m
+  File: [36m/home/runner/workspace/static/js/components/Footer/Footer.jsx[39m:25:23
+[33m  42 |                      <a href="/" style={{ height: '2.2rem', width: 'fit-content' }}>
+  43 |                          <Logo alwaysShowText={true} />
+  44 |                      </a>
+     |                          ^
+  45 |                      <div className={Classes.ctaCard}>
+  46 |                          <p>Full Stack Developer — React.js · Spring Boot · PHP · AWS</p>[39m
+      at TransformPluginContext._formatError (file:///home/runner/workspace/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:49258:41)
+      at TransformPluginContext.error (file:///home/runner/workspace/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:49253:16)
+      at TransformPluginContext.transform (file:///home/runner/workspace/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:64259:14)
+      at async PluginContainer.transform (file:///home/runner/workspace/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:49099:18)
+      at async loadAndTransform (file:///home/runner/workspace/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:51978:27)
+      at async viteTransformMiddleware (file:///home/runner/workspace/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:62106:24)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m2:59:43 PM[22m [31m[1m[vite][22m[39m [31mInternal server error: Failed to parse source for import analysis because the content contains invalid JS syntax. If you use tsconfig.json, make sure to not set jsx to preserve.[39m
+  Plugin: [35mvite:import-analysis[39m
+  File: [36m/home/runner/workspace/static/js/Animations/BottomToTop.jsx[39m:28:21
+[33m  45 |        
+  46 |              {children}
+  47 |          </motion.div>);
+     |                         ^
+  48 |  
+  49 |  }_c = BottomToTop;var _c;$RefreshReg$(_c, "BottomToTop");[39m
+      at TransformPluginContext._formatError (file:///home/runner/workspace/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:49258:41)
+      at TransformPluginContext.error (file:///home/runner/workspace/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:49253:16)
+      at TransformPluginContext.transform (file:///home/runner/workspace/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:64259:14)
+      at async PluginContainer.transform (file:///home/runner/workspace/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:49099:18)
+      at async loadAndTransform (file:///home/runner/workspace/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:51978:27)
+      at async viteTransformMiddleware (file:///home/runner/workspace/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:62106:24)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m3:01:19 PM[22m [36m[1m[vite][22m[39m [32mvite.config.js changed, restarting server...[39m
+Re-optimizing dependencies because vite config has changed
+[2m3:01:19 PM[22m [36m[1m[vite][22m[39m server restarted.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m3:03:14 PM[22m [36m[1m[vite][22m[39m [32mvite.config.js changed, restarting server...[39m
+Forced re-optimization of dependencies
+[2m3:03:14 PM[22m [36m[1m[vite][22m[39m server restarted.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m3:03:36 PM[22m [36m[1m[vite][22m[39m [32mvite.config.js changed, restarting server...[39m
+Forced re-optimization of dependencies
+[2m3:03:36 PM[22m [36m[1m[vite][22m[39m server restarted.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m3:05:53 PM[22m [36m[1m[vite][22m[39m [32mvite.config.js changed, restarting server...[39m
+Forced re-optimization of dependencies
+[2m3:05:53 PM[22m [36m[1m[vite][22m[39m server restarted.
+[2m3:06:10 PM[22m [31m[1m[vite][22m[39m Pre-transform error: [postcss] postcss-modules-local-by-default: /home/runner/workspace/static/js/pages/Home/Home.module.css:1:1: Unexpected '/'. Escaping special characters with \ may help.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m3:06:10 PM[22m [31m[1m[vite][22m[39m [31mInternal server error: [postcss] postcss-modules-local-by-default: /home/runner/workspace/static/js/pages/Home/Home.module.css:1:1: Unexpected '/'. Escaping special characters with \ may help.[39m
+  Plugin: [35mvite:css[39m
+  File: [36m/home/runner/workspace/static/js/pages/Home/Home.module.css[39m:1:0
+[33m  1  |  // extracted by mini-css-extract-plugin
+     |  ^
+  2  |  export default {}
+  3  |  [39m
+      at /home/runner/workspace/static/js/pages/Home/Home.module.css:1:1
+      at Input.error (/home/runner/workspace/node_modules/postcss/lib/input.js:135:16)
+      at Rule.error (/home/runner/workspace/node_modules/postcss/lib/node.js:146:32)
+      at Root._error (file:///home/runner/workspace/node_modules/vite/dist/node/chunks/dep-Dnp7gl8U.js:4400:26)
+      at Root.error (file:///home/runner/workspace/node_modules/vite/dist/node/chunks/dep-Dnp7gl8U.js:2959:20)
+      at Parser.error (file:///home/runner/workspace/node_modules/vite/dist/node/chunks/dep-Dnp7gl8U.js:4863:22)
+      at Parser.unexpected (file:///home/runner/workspace/node_modules/vite/dist/node/chunks/dep-Dnp7gl8U.js:4877:18)
+      at Parser.combinator (file:///home/runner/workspace/node_modules/vite/dist/node/chunks/dep-Dnp7gl8U.js:4791:13)
+      at Parser.parse (file:///home/runner/workspace/node_modules/vite/dist/node/chunks/dep-Dnp7gl8U.js:5165:15)
+      at Parser.loop (file:///home/runner/workspace/node_modules/vite/dist/node/chunks/dep-Dnp7gl8U.js:5121:13)
+      at new Parser (file:///home/runner/workspace/node_modules/vite/dist/node/chunks/dep-Dnp7gl8U.js:4391:11)
+      at Processor._root (file:///home/runner/workspace/node_modules/vite/dist/node/chunks/dep-Dnp7gl8U.js:5324:19)
+      at Processor._runSync (file:///home/runner/workspace/node_modules/vite/dist/node/chunks/dep-Dnp7gl8U.js:5362:22)
+      at Processor.processSync (file:///home/runner/workspace/node_modules/vite/dist/node/chunks/dep-Dnp7gl8U.js:5448:24)
+      at localizeNode (file:///home/runner/workspace/node_modules/vite/dist/node/chunks/dep-Dnp7gl8U.js:5881:6)
+      at file:///home/runner/workspace/node_modules/vite/dist/node/chunks/dep-Dnp7gl8U.js:6230:29
+      at /home/runner/workspace/node_modules/postcss/lib/container.js:387:18
+      at /home/runner/workspace/node_modules/postcss/lib/container.js:315:18
+      at Root.each (/home/runner/workspace/node_modules/postcss/lib/container.js:63:16)
+      at Root.walk (/home/runner/workspace/node_modules/postcss/lib/container.js:312:17)
+      at Root.walkRules (/home/runner/workspace/node_modules/postcss/lib/container.js:385:19)
+      at Object.Once (file:///home/runner/workspace/node_modules/vite/dist/node/chunks/dep-Dnp7gl8U.js:6220:16)
+      at LazyResult.runOnRoot (/home/runner/workspace/node_modules/postcss/lib/lazy-result.js:359:23)
+      at LazyResult.runAsync (/home/runner/workspace/node_modules/postcss/lib/lazy-result.js:290:26)
+      at LazyResult.async (/home/runner/workspace/node_modules/postcss/lib/lazy-result.js:192:30)
+      at LazyResult.then (/home/runner/workspace/node_modules/postcss/lib/lazy-result.js:449:17)

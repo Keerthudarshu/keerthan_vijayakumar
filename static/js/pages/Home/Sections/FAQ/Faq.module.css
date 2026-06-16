@@ -1,0 +1,138 @@
+.hero {
+    width: 100%;
+    padding: 4rem 0;
+    padding-bottom: 7rem;
+    box-sizing: border-box;
+    color: #fff;
+    text-align: center;
+}
+
+.container {
+    padding: 0 7%;
+    margin: 0 auto;
+}
+
+.container h2 {
+    font-size: 2.4rem;
+    margin-bottom: 0.5rem;
+}
+
+.container h2 span {
+    color: #a365ff;
+}
+
+.container > p {
+    max-width: 650px;
+    margin: 0.5rem auto 5rem;
+    color: #ccc;
+    line-height: 1.6;
+    font-size: 1rem;
+}
+
+.grid {
+    position: relative;
+}
+
+.faqCon {
+    display: flex;
+    justify-content: center;
+    margin-top: 1rem;
+    width: 100%;
+    z-index: 10;
+}
+
+.faqCon > div {
+    width: 70%;
+}
+
+.contactGrid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1rem;
+    width: 100%;
+}
+
+.contactCard {
+    display: flex;
+    align-items: flex-start;
+    gap: 1rem;
+    padding: 1.3rem 1.2rem;
+    background: linear-gradient(306.77deg, #060b21 75.7%, #0e142f 97.33%);
+    border: 1px solid rgba(40, 45, 69, 0.75);
+    border-radius: 14px;
+    transition: all 0.3s ease;
+    text-align: left;
+}
+
+.contactCardLink {
+    cursor: pointer;
+}
+
+.contactCardLink:hover {
+    box-shadow: inset 0px 0px 28px 2px rgba(170, 46, 255, 0.2);
+    border-color: rgba(227, 196, 248, 0.18);
+    transform: translateY(-2px);
+}
+
+.contactIcon {
+    font-size: 1.6rem;
+    flex-shrink: 0;
+    margin-top: 2px;
+}
+
+.contactLabel {
+    font-size: 11px;
+    color: #a365ff;
+    font-weight: 600;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    margin-bottom: 3px;
+}
+
+.contactValue {
+    font-size: 14px;
+    color: #fff;
+    font-weight: 500;
+    margin-bottom: 4px;
+    word-break: break-all;
+}
+
+.contactDesc {
+    font-size: 12px;
+    color: #888;
+    font-weight: 300;
+    line-height: 1.4;
+}
+
+@media (max-width: 1200px) {
+    .faqCon > div {
+        width: 80%;
+    }
+}
+
+@media (max-width: 900px) {
+    .faqCon > div {
+        width: 90%;
+    }
+    .contactGrid {
+        grid-template-columns: 1fr;
+    }
+}
+
+@media (max-width: 600px) {
+    .faqCon > div {
+        width: 95%;
+    }
+}
+
+@media (max-width: 480px) {
+    .container h2 {
+        font-size: 1.5rem;
+    }
+    .hero {
+        padding-bottom: 4rem;
+    }
+    .contactCard {
+        padding: 1rem;
+    }
+}

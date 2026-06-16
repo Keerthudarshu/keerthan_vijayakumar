@@ -1,0 +1,271 @@
+[1G[0K[41m[1m ERROR [22m[49m Cannot copy server address to clipboard: Couldn't find the `xsel` binary and fallback didn't work. On Debian/Ubuntu you can install xsel with: sudo apt install xsel.
+[32m[39m
+[32m   ┌──────────────────────────────────────────┐[39m
+   [32m│[39m                                          [32m│[39m
+   [32m│[39m   [32mServing![39m                               [32m│[39m
+   [32m│[39m                                          [32m│[39m
+   [32m│[39m   [1m- Local:[22m    http://localhost:5000      [32m│[39m
+   [32m│[39m   [1m- Network:[22m  http://172.31.83.34:5000   [32m│[39m
+   [32m│[39m                                          [32m│[39m
+[32m   └──────────────────────────────────────────┘[39m
+[32m[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:42:35 PM[22m [33m127.0.0.1[39m [36mGET /[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:42:35 PM[22m [33m127.0.0.1[39m [32mReturned 200 in 14 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:42:35 PM[22m [33m127.0.0.1[39m [36mGET /static/css/main.fe9b73c3.css[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:42:35 PM[22m [33m127.0.0.1[39m [32mReturned 304 in 1 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:42:35 PM[22m [33m127.0.0.1[39m [36mGET /static/js/main.46d5b518.js[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:42:35 PM[22m [33m127.0.0.1[39m [32mReturned 200 in 3 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:42:35 PM[22m [33m127.0.0.1[39m [36mGET /static/js/475.1a18f0d3.chunk.js[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:42:35 PM[22m [33m127.0.0.1[39m [36mGET /static/js/278.394b6ac5.chunk.js[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:42:35 PM[22m [33m127.0.0.1[39m [32mReturned 304 in 2 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:42:35 PM[22m [33m127.0.0.1[39m [32mReturned 304 in 3 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:42:35 PM[22m [33m127.0.0.1[39m [36mGET /static/js/326.4a2dba2b.chunk.js[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:42:35 PM[22m [33m127.0.0.1[39m [36mGET /static/css/760.658bf701.chunk.css[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:42:35 PM[22m [33m127.0.0.1[39m [32mReturned 304 in 1 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:42:35 PM[22m [33m127.0.0.1[39m [32mReturned 304 in 3 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:42:35 PM[22m [33m127.0.0.1[39m [36mGET /logo.png[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:42:35 PM[22m [33m127.0.0.1[39m [36mGET /static/js/760.52565ca9.chunk.js[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:42:35 PM[22m [33m127.0.0.1[39m [32mReturned 304 in 3 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:42:35 PM[22m [33m127.0.0.1[39m [32mReturned 200 in 3 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:42:35 PM[22m [33m127.0.0.1[39m [36mGET /_vercel/insights/script.js[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:42:35 PM[22m [33m127.0.0.1[39m [32mReturned 304 in 1 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:42:35 PM[22m [33m127.0.0.1[39m [36mGET /_vercel/speed-insights/script.js[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:42:35 PM[22m [33m127.0.0.1[39m [32mReturned 304 in 2 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:42:36 PM[22m [33m127.0.0.1[39m [36mGET /images/parker.jpg[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:42:36 PM[22m [33m127.0.0.1[39m [36mGET /images/jake.webp[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:42:36 PM[22m [33m127.0.0.1[39m [32mReturned 304 in 3 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:42:36 PM[22m [33m127.0.0.1[39m [32mReturned 304 in 2 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:42:36 PM[22m [33m127.0.0.1[39m [36mPOST /_vercel/insights/view[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:42:36 PM[22m [33m127.0.0.1[39m [32mReturned 200 in 2 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:42:36 PM[22m [33m::1[39m [36mGET /[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:42:36 PM[22m [33m::1[39m [32mReturned 200 in 1 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:42:36 PM[22m [33m127.0.0.1[39m [36mGET /images/ari.png[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:42:36 PM[22m [33m127.0.0.1[39m [32mReturned 304 in 1 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:42:36 PM[22m [33m127.0.0.1[39m [36mGET /images/dimitris.webp[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:42:36 PM[22m [33m127.0.0.1[39m [32mReturned 304 in 1 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:42:36 PM[22m [33m127.0.0.1[39m [36mGET /images/mcclain.webp[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:42:36 PM[22m [33m127.0.0.1[39m [32mReturned 304 in 1 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:42:36 PM[22m [33m127.0.0.1[39m [36mGET /images/project.png[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:42:36 PM[22m [33m127.0.0.1[39m [32mReturned 304 in 1 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:42:41 PM[22m [33m::1[39m [36mGET /static/css/main.fe9b73c3.css[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:42:41 PM[22m [33m::1[39m [36mGET /static/js/main.46d5b518.js[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:42:41 PM[22m [33m::1[39m [32mReturned 200 in 1 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:42:41 PM[22m [33m::1[39m [32mReturned 200 in 2 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:42:41 PM[22m [33m::1[39m [36mGET /static/js/475.1a18f0d3.chunk.js[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:42:41 PM[22m [33m::1[39m [36mGET /static/js/278.394b6ac5.chunk.js[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:42:41 PM[22m [33m::1[39m [32mReturned 200 in 2 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:42:41 PM[22m [33m::1[39m [36mGET /static/js/326.4a2dba2b.chunk.js[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:42:41 PM[22m [33m::1[39m [32mReturned 200 in 2 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:42:41 PM[22m [33m::1[39m [32mReturned 200 in 2 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:42:41 PM[22m [33m::1[39m [36mGET /static/css/760.658bf701.chunk.css[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:42:41 PM[22m [33m::1[39m [36mGET /static/js/760.52565ca9.chunk.js[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:42:41 PM[22m [33m::1[39m [32mReturned 200 in 1 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:42:41 PM[22m [33m::1[39m [32mReturned 200 in 1 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:42:41 PM[22m [33m::1[39m [36mGET /logo.png[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:42:41 PM[22m [33m::1[39m [32mReturned 200 in 2 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:42:41 PM[22m [33m::1[39m [36mGET /_vercel/insights/script.js[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:42:41 PM[22m [33m::1[39m [32mReturned 200 in 2 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:42:41 PM[22m [33m::1[39m [36mGET /_vercel/speed-insights/script.js[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:42:41 PM[22m [33m::1[39m [36mGET /logo.png[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:42:41 PM[22m [33m::1[39m [32mReturned 200 in 1 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:42:41 PM[22m [33m::1[39m [32mReturned 304 in 1 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:42:41 PM[22m [33m::1[39m [36mGET /images/jake.webp[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:42:41 PM[22m [33m::1[39m [36mGET /images/parker.jpg[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:42:41 PM[22m [33m::1[39m [36mGET /images/ari.png[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:42:41 PM[22m [33m::1[39m [36mGET /images/dimitris.webp[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:42:41 PM[22m [33m::1[39m [36mGET /images/mcclain.webp[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:42:41 PM[22m [33m::1[39m [32mReturned 200 in 2 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:42:41 PM[22m [33m::1[39m [32mReturned 200 in 1 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:42:41 PM[22m [33m::1[39m [32mReturned 200 in 2 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:42:41 PM[22m [33m::1[39m [32mReturned 200 in 2 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:42:41 PM[22m [33m::1[39m [32mReturned 200 in 2 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:42:41 PM[22m [33m::1[39m [36mGET /images/project.png[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:42:41 PM[22m [33m::1[39m [32mReturned 200 in 1 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:42:41 PM[22m [33m::1[39m [36mGET /projects/1.webp[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:42:41 PM[22m [33m::1[39m [32mReturned 200 in 1 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:42:41 PM[22m [33m::1[39m [36mGET /projects/2.webp[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:42:41 PM[22m [33m::1[39m [36mGET /projects/3.webp[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:42:41 PM[22m [33m::1[39m [36mGET /projects/4.webp[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:42:41 PM[22m [33m::1[39m [36mGET /projects/5.webp[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:42:41 PM[22m [33m::1[39m [36mGET /projects/6.webp[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:42:41 PM[22m [33m::1[39m [36mGET /projects/7.webp[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:42:41 PM[22m [33m::1[39m [32mReturned 200 in 3 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:42:41 PM[22m [33m::1[39m [32mReturned 200 in 3 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:42:41 PM[22m [33m::1[39m [32mReturned 200 in 5 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:42:41 PM[22m [33m::1[39m [32mReturned 200 in 4 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:42:41 PM[22m [33m::1[39m [32mReturned 200 in 5 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:42:41 PM[22m [33m::1[39m [32mReturned 200 in 5 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:42:41 PM[22m [33m::1[39m [36mGET /projects/8.webp[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:42:41 PM[22m [33m::1[39m [32mReturned 200 in 1 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:42:49 PM[22m [33m::1[39m [36mGET /[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:42:49 PM[22m [33m::1[39m [32mReturned 304 in 3 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:42:49 PM[22m [33m::1[39m [36mGET /static/js/main.46d5b518.js[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:42:49 PM[22m [33m::1[39m [36mGET /static/css/main.fe9b73c3.css[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:42:49 PM[22m [33m::1[39m [32mReturned 304 in 1 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:42:49 PM[22m [33m::1[39m [32mReturned 304 in 2 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:42:50 PM[22m [33m::1[39m [36mGET /static/js/475.1a18f0d3.chunk.js[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:42:50 PM[22m [33m::1[39m [36mGET /static/js/278.394b6ac5.chunk.js[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:42:50 PM[22m [33m::1[39m [32mReturned 304 in 2 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:42:50 PM[22m [33m::1[39m [32mReturned 304 in 2 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:42:50 PM[22m [33m::1[39m [36mGET /static/js/326.4a2dba2b.chunk.js[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:42:50 PM[22m [33m::1[39m [32mReturned 304 in 1 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:42:50 PM[22m [33m::1[39m [36mGET /static/css/760.658bf701.chunk.css[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:42:50 PM[22m [33m::1[39m [32mReturned 304 in 0 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:42:50 PM[22m [33m::1[39m [36mGET /static/js/760.52565ca9.chunk.js[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:42:50 PM[22m [33m::1[39m [32mReturned 304 in 0 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:42:50 PM[22m [33m::1[39m [36mGET /logo.png[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:42:50 PM[22m [33m::1[39m [32mReturned 304 in 1 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:42:50 PM[22m [33m::1[39m [36mGET /_vercel/insights/script.js[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:42:50 PM[22m [33m::1[39m [32mReturned 304 in 1 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:42:50 PM[22m [33m::1[39m [36mGET /_vercel/speed-insights/script.js[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:42:50 PM[22m [33m::1[39m [32mReturned 304 in 0 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:42:50 PM[22m [33m::1[39m [36mGET /logo.png[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:42:50 PM[22m [33m::1[39m [32mReturned 304 in 3 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:42:50 PM[22m [33m::1[39m [36mGET /images/jake.webp[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:42:50 PM[22m [33m::1[39m [36mGET /images/parker.jpg[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:42:50 PM[22m [33m::1[39m [36mGET /images/ari.png[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:42:50 PM[22m [33m::1[39m [36mGET /images/dimitris.webp[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:42:50 PM[22m [33m::1[39m [36mGET /images/mcclain.webp[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:42:50 PM[22m [33m::1[39m [32mReturned 304 in 16 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:42:50 PM[22m [33m::1[39m [32mReturned 304 in 6 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:42:50 PM[22m [33m::1[39m [32mReturned 304 in 5 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:42:50 PM[22m [33m::1[39m [32mReturned 304 in 5 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:42:50 PM[22m [33m::1[39m [32mReturned 304 in 7 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:42:50 PM[22m [33m::1[39m [36mGET /images/project.png[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:42:50 PM[22m [33m::1[39m [32mReturned 304 in 1 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:42:50 PM[22m [33m::1[39m [36mGET /projects/1.webp[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:42:50 PM[22m [33m::1[39m [36mGET /projects/2.webp[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:42:50 PM[22m [33m::1[39m [36mGET /projects/3.webp[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:42:50 PM[22m [33m::1[39m [36mGET /projects/4.webp[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:42:50 PM[22m [33m::1[39m [36mGET /projects/5.webp[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:42:50 PM[22m [33m::1[39m [36mGET /projects/6.webp[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:42:50 PM[22m [33m::1[39m [32mReturned 304 in 2 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:42:50 PM[22m [33m::1[39m [32mReturned 304 in 4 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:42:50 PM[22m [33m::1[39m [32mReturned 304 in 5 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:42:50 PM[22m [33m::1[39m [32mReturned 304 in 5 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:42:50 PM[22m [33m::1[39m [32mReturned 304 in 5 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:42:50 PM[22m [33m::1[39m [32mReturned 304 in 5 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:42:50 PM[22m [33m::1[39m [36mGET /projects/7.webp[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:42:50 PM[22m [33m::1[39m [32mReturned 304 in 1 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:42:50 PM[22m [33m::1[39m [36mGET /projects/8.webp[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:42:50 PM[22m [33m::1[39m [32mReturned 304 in 1 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:43:00 PM[22m [33m::1[39m [36mGET /[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:43:00 PM[22m [33m::1[39m [32mReturned 304 in 1 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:43:00 PM[22m [33m::1[39m [36mGET /static/js/main.46d5b518.js[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:43:00 PM[22m [33m::1[39m [36mGET /static/css/main.fe9b73c3.css[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:43:00 PM[22m [33m::1[39m [32mReturned 304 in 1 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:43:00 PM[22m [33m::1[39m [32mReturned 304 in 1 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:43:00 PM[22m [33m::1[39m [36mGET /static/js/475.1a18f0d3.chunk.js[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:43:00 PM[22m [33m::1[39m [32mReturned 304 in 2 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:43:00 PM[22m [33m::1[39m [36mGET /static/js/278.394b6ac5.chunk.js[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:43:01 PM[22m [33m::1[39m [36mGET /static/js/326.4a2dba2b.chunk.js[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:43:01 PM[22m [33m::1[39m [36mGET /static/css/760.658bf701.chunk.css[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:43:01 PM[22m [33m::1[39m [36mGET /static/js/760.52565ca9.chunk.js[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:43:01 PM[22m [33m::1[39m [36mGET /logo.png[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:43:01 PM[22m [33m::1[39m [32mReturned 304 in 10 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:43:01 PM[22m [33m::1[39m [32mReturned 304 in 11 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:43:01 PM[22m [33m::1[39m [32mReturned 304 in 6 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:43:00 PM[22m [33m::1[39m [32mReturned 304 in 17 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:43:01 PM[22m [33m::1[39m [32mReturned 304 in 7 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:43:01 PM[22m [33m::1[39m [36mGET /_vercel/insights/script.js[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:43:01 PM[22m [33m::1[39m [36mGET /_vercel/speed-insights/script.js[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:43:01 PM[22m [33m::1[39m [36mGET /logo.png[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:43:01 PM[22m [33m::1[39m [32mReturned 304 in 3 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:43:01 PM[22m [33m::1[39m [32mReturned 304 in 0 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:43:01 PM[22m [33m::1[39m [32mReturned 304 in 2 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:43:01 PM[22m [33m::1[39m [36mGET /images/jake.webp[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:43:01 PM[22m [33m::1[39m [36mGET /images/parker.jpg[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:43:01 PM[22m [33m::1[39m [36mGET /images/ari.png[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:43:01 PM[22m [33m::1[39m [36mGET /images/dimitris.webp[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:43:01 PM[22m [33m::1[39m [36mGET /images/mcclain.webp[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:43:01 PM[22m [33m::1[39m [32mReturned 304 in 5 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:43:01 PM[22m [33m::1[39m [32mReturned 304 in 3 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:43:01 PM[22m [33m::1[39m [32mReturned 304 in 3 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:43:01 PM[22m [33m::1[39m [32mReturned 304 in 2 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:43:01 PM[22m [33m::1[39m [32mReturned 304 in 3 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:43:01 PM[22m [33m::1[39m [36mGET /projects/1.webp[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:43:01 PM[22m [33m::1[39m [32mReturned 304 in 1 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:43:01 PM[22m [33m::1[39m [36mGET /images/project.png[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:43:01 PM[22m [33m::1[39m [32mReturned 304 in 1 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:43:01 PM[22m [33m::1[39m [36mGET /projects/2.webp[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:43:01 PM[22m [33m::1[39m [36mGET /projects/3.webp[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:43:01 PM[22m [33m::1[39m [36mGET /projects/4.webp[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:43:01 PM[22m [33m::1[39m [32mReturned 304 in 2 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:43:01 PM[22m [33m::1[39m [32mReturned 304 in 1 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:43:01 PM[22m [33m::1[39m [32mReturned 304 in 1 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:43:01 PM[22m [33m::1[39m [36mGET /projects/5.webp[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:43:01 PM[22m [33m::1[39m [32mReturned 304 in 0 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:43:01 PM[22m [33m::1[39m [36mGET /projects/6.webp[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:43:01 PM[22m [33m::1[39m [32mReturned 304 in 0 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:43:01 PM[22m [33m::1[39m [36mGET /projects/7.webp[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:43:01 PM[22m [33m::1[39m [32mReturned 304 in 2 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:43:01 PM[22m [33m::1[39m [36mGET /projects/8.webp[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:43:01 PM[22m [33m::1[39m [32mReturned 304 in 1 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:43:52 PM[22m [33m::1[39m [36mGET /[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:43:52 PM[22m [33m::1[39m [32mReturned 304 in 1 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:43:52 PM[22m [33m::1[39m [36mGET /static/js/main.46d5b518.js[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:43:52 PM[22m [33m::1[39m [36mGET /static/css/main.fe9b73c3.css[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:43:52 PM[22m [33m::1[39m [32mReturned 304 in 1 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:43:52 PM[22m [33m::1[39m [32mReturned 304 in 1 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:43:52 PM[22m [33m::1[39m [36mGET /static/js/475.1a18f0d3.chunk.js[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:43:52 PM[22m [33m::1[39m [36mGET /static/js/278.394b6ac5.chunk.js[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:43:52 PM[22m [33m::1[39m [32mReturned 304 in 2 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:43:52 PM[22m [33m::1[39m [32mReturned 304 in 2 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:43:52 PM[22m [33m::1[39m [36mGET /static/js/326.4a2dba2b.chunk.js[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:43:52 PM[22m [33m::1[39m [32mReturned 304 in 1 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:43:52 PM[22m [33m::1[39m [36mGET /static/css/760.658bf701.chunk.css[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:43:52 PM[22m [33m::1[39m [32mReturned 304 in 0 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:43:52 PM[22m [33m::1[39m [36mGET /static/js/760.52565ca9.chunk.js[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:43:52 PM[22m [33m::1[39m [32mReturned 304 in 1 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:43:52 PM[22m [33m::1[39m [36mGET /logo.png[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:43:52 PM[22m [33m::1[39m [32mReturned 304 in 2 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:43:52 PM[22m [33m::1[39m [36mGET /_vercel/insights/script.js[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:43:52 PM[22m [33m::1[39m [36mGET /_vercel/speed-insights/script.js[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:43:52 PM[22m [33m::1[39m [36mGET /logo.png[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:43:52 PM[22m [33m::1[39m [32mReturned 304 in 2 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:43:52 PM[22m [33m::1[39m [32mReturned 304 in 1 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:43:52 PM[22m [33m::1[39m [32mReturned 304 in 2 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:43:52 PM[22m [33m::1[39m [36mGET /images/jake.webp[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:43:52 PM[22m [33m::1[39m [36mGET /images/parker.jpg[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:43:52 PM[22m [33m::1[39m [36mGET /images/ari.png[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:43:52 PM[22m [33m::1[39m [36mGET /images/dimitris.webp[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:43:52 PM[22m [33m::1[39m [32mReturned 304 in 2 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:43:52 PM[22m [33m::1[39m [32mReturned 304 in 2 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:43:52 PM[22m [33m::1[39m [32mReturned 304 in 2 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:43:52 PM[22m [33m::1[39m [32mReturned 304 in 1 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:43:52 PM[22m [33m::1[39m [36mGET /images/mcclain.webp[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:43:52 PM[22m [33m::1[39m [32mReturned 304 in 0 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:43:52 PM[22m [33m::1[39m [36mGET /images/project.png[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:43:52 PM[22m [33m::1[39m [32mReturned 304 in 2 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:43:52 PM[22m [33m::1[39m [36mGET /projects/1.webp[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:43:52 PM[22m [33m::1[39m [32mReturned 304 in 1 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:43:52 PM[22m [33m::1[39m [36mGET /projects/2.webp[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:43:52 PM[22m [33m::1[39m [32mReturned 304 in 0 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:43:52 PM[22m [33m::1[39m [36mGET /projects/3.webp[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:43:52 PM[22m [33m::1[39m [32mReturned 304 in 0 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:43:52 PM[22m [33m::1[39m [36mGET /projects/4.webp[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:43:52 PM[22m [33m::1[39m [36mGET /projects/5.webp[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:43:52 PM[22m [33m::1[39m [32mReturned 304 in 1 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:43:52 PM[22m [33m::1[39m [32mReturned 304 in 1 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:43:52 PM[22m [33m::1[39m [36mGET /projects/6.webp[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:43:52 PM[22m [33m::1[39m [32mReturned 304 in 1 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:43:52 PM[22m [33m::1[39m [36mGET /projects/7.webp[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:43:52 PM[22m [33m::1[39m [36mGET /projects/8.webp[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:43:52 PM[22m [33m::1[39m [32mReturned 304 in 3 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:43:52 PM[22m [33m::1[39m [32mReturned 304 in 3 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:46:50 PM[22m [33m127.0.0.1[39m [36mPOST /_vercel/speed-insights/vitals[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:46:50 PM[22m [33m127.0.0.1[39m [32mReturned 200 in 1 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:46:59 PM[22m [33m127.0.0.1[39m [36mGET /projects/2.webp[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:46:59 PM[22m [33m127.0.0.1[39m [36mGET /projects/3.webp[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:46:59 PM[22m [33m127.0.0.1[39m [32mReturned 304 in 1 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:46:59 PM[22m [33m127.0.0.1[39m [32mReturned 304 in 1 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:46:59 PM[22m [33m127.0.0.1[39m [36mGET /projects/4.webp[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:46:59 PM[22m [33m127.0.0.1[39m [32mReturned 304 in 2 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:46:59 PM[22m [33m127.0.0.1[39m [36mGET /projects/5.webp[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:46:59 PM[22m [33m127.0.0.1[39m [32mReturned 304 in 1 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:47:02 PM[22m [33m127.0.0.1[39m [36mGET /projects/6.webp[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:47:02 PM[22m [33m127.0.0.1[39m [32mReturned 304 in 1 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:47:03 PM[22m [33m127.0.0.1[39m [36mGET /projects/7.webp[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:47:03 PM[22m [33m127.0.0.1[39m [32mReturned 304 in 1 ms[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:47:23 PM[22m [33m127.0.0.1[39m [36mGET /projects/1.webp[39m
+[44m[1m HTTP [22m[49m [2m5/12/2026 3:47:23 PM[22m [33m127.0.0.1[39m [32mReturned 304 in 1 ms[39m
